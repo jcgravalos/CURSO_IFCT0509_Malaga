@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-       <title>CarrefourWeb</title>
+       <title>Carrefour123</title>
   </head>
   <body>
         <!-- Guardo en una variable ($conn) la conexión con mi DB (La obtengo meciante el cmd: new mysqli)
