@@ -5,7 +5,7 @@
   </head>
   <body>
         <!-- Guardo en una variable ($conn) la conexión con mi DB (La obtengo meciante el cmd: new mysqli)
-             Con esta variable ($conn) podré jecutar querys y otras acciones. -->
+             Con esta variable ($conn) podré jecutar querys y otras acciones. 2023 -->
         <?php $conn = new mysqli("localhost", "josecarlos", "josecarlos","Carrefour"); ?>
 
         <!-- Cabecera -->
